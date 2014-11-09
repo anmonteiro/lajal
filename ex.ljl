@@ -1,0 +1,5 @@
+(def {fun}
+  (lambda {args body}
+    {def (head args) (lambda (tail args) body)}))
+(fun {add x y} {+ x y})
+(prn (add 3 4))

@@ -1,0 +1,887 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stm",
+				"stmtStr"
+			],
+			[
+				"st",
+				"stmt"
+			],
+			[
+				"coun",
+				"countryCode"
+			],
+			[
+				"ne",
+				"newAmount"
+			],
+			[
+				"C",
+				"CURRENT_POPULATION"
+			],
+			[
+				"arg",
+				"arg0"
+			],
+			[
+				"sys",
+				"system"
+			],
+			[
+				"col",
+				"colName"
+			],
+			[
+				"stt",
+				"stmt"
+			],
+			[
+				"ha",
+				"handleSQLException"
+			],
+			[
+				"mode",
+				"model"
+			],
+			[
+				"books",
+				"books-resources"
+			],
+			[
+				"req",
+				"request-method"
+			],
+			[
+				"mai",
+				"main-route"
+			],
+			[
+				"def",
+				"defroutes"
+			],
+			[
+				"offe",
+				"offenders"
+			],
+			[
+				"t",
+				"top-pagination"
+			],
+			[
+				"di",
+				"disabled"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"of",
+				"offenders"
+			],
+			[
+				"click",
+				"clicked"
+			],
+			[
+				"qu",
+				"quote-container"
+			],
+			[
+				"off",
+				"offender-row"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"quo",
+				"quote-wrapper"
+			],
+			[
+				"last",
+				"last-quote"
+			],
+			[
+				"p",
+				"panel-body"
+			],
+			[
+				"o",
+				"offender"
+			],
+			[
+				"red",
+				"render-quote-container"
+			],
+			[
+				"render",
+				"render-quote-container"
+			],
+			[
+				"q",
+				"quote-container"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"aja",
+				"ajax-timeout"
+			],
+			[
+				"re",
+				"render-spinner"
+			],
+			[
+				"E",
+				"EventType"
+			],
+			[
+				"ini",
+				"init-history"
+			],
+			[
+				"set",
+				"setToken"
+			],
+			[
+				"atom",
+				"atomic-clock"
+			],
+			[
+				"con",
+				"concat__0"
+			],
+			[
+				"random",
+				"random-path"
+			],
+			[
+				"ran",
+				"random-path"
+			],
+			[
+				"error",
+				"error-quote"
+			],
+			[
+				"render-",
+				"render-quote-error"
+			],
+			[
+				"ER",
+				"error-quote"
+			],
+			[
+				"err",
+				"error-quote"
+			],
+			[
+				"tes",
+				"test-offender"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"pro",
+				"profileUrl"
+			],
+			[
+				"exe",
+				"executionNo"
+			],
+			[
+				"mong",
+				"mongo"
+			],
+			[
+				"el",
+				"elText"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"retr",
+				"retrieveLastStatement"
+			],
+			[
+				"mongo",
+				"mongoClient"
+			],
+			[
+				"mon",
+				"mongoClient"
+			],
+			[
+				"is",
+				"is-divisible-until-n"
+			],
+			[
+				"num",
+				"num-to-lst"
+			],
+			[
+				"se",
+				"seq-prob4"
+			],
+			[
+				"i",
+				"is-palindrome"
+			],
+			[
+				"prim",
+				"prime-factors"
+			],
+			[
+				"test",
+				"testing"
+			],
+			[
+				"P",
+				"problem2"
+			],
+			[
+				"Cl",
+				"clojure"
+			],
+			[
+				"lst",
+				"lst"
+			],
+			[
+				"ls",
+				"lst1"
+			],
+			[
+				"eva",
+				"eval_closure"
+			],
+			[
+				"ev",
+				"eval_closure"
+			],
+			[
+				"as",
+				"ast"
+			],
+			[
+				"ex",
+				"expected_num_args"
+			],
+			[
+				"er",
+				"err_non_symbol"
+			],
+			[
+				"is_",
+				"is_symbol"
+			],
+			[
+				"n",
+				"new_binding"
+			],
+			[
+				"eval",
+				"evaluate"
+			],
+			[
+				"s",
+				"symbol"
+			],
+			[
+				"ar",
+				"arg1"
+			],
+			[
+				"a",
+				"ast"
+			],
+			[
+				"first",
+				"first_expression"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"fir",
+				"first_expression"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"g",
+				"getSite"
+			],
+			[
+				"site",
+				"sitesController"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"c",
+				"call"
+			],
+			[
+				"l",
+				"len"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"m",
+				"mime"
+			],
+			[
+				"u",
+				"utils"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"list",
+				"listSelector"
+			],
+			[
+				"typ",
+				"type2parser"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"inv",
+				"invalid_echojs"
+			],
+			[
+				"arti",
+				"article_selector"
+			],
+			[
+				"news",
+				"news_selector"
+			],
+			[
+				"exp",
+				"expect"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "# Object files\n*.o\n*.ko\n*.obj\n*.elf\n\n# Precompiled Headers\n*.gch\n*.pch\n\n# Libraries\n*.lib\n*.a\n*.la\n*.lo\n\n# Shared objects (inc. Windows DLLs)\n*.dll\n*.so\n*.so.*\n*.dylib\n\n# Executables\n*.exe\n*.out\n*.app\n*.i*86\n*.x86_64\n*.hex",
+			"settings":
+			{
+				"buffer_size": 222,
+				"line_ending": "Unix",
+				"name": "# Object files"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"cljs",
+				"Set Syntax: ClojureScript"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sscloj",
+				"Set Syntax: Clojure"
+			],
+			[
+				"sscljs",
+				"Set Syntax: ClojureScript"
+			],
+			[
+				"ssclo",
+				"Set Syntax: Clojure"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"clojur",
+				"Set Syntax: Clojure"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Preferences: Browse Packages"
+			],
+			[
+				"lisp",
+				"Set Syntax: Lisp"
+			],
+			[
+				"lis",
+				"Set Syntax: Lisp"
+			],
+			[
+				"ssmd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssm",
+				"Set Syntax: Markdown"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/anmonteiro/Documents/github/lajal"
+	],
+	"file_history":
+	[
+		"/Users/anmonteiro/Documents/github/anmonteiro.github.io/.gitignore",
+		"/Users/anmonteiro/Documents/github/anmonteiro.github.io/_layouts/page.html",
+		"/Users/anmonteiro/Documents/github/anmonteiro.github.io/README.md",
+		"/Users/anmonteiro/Documents/TUD/TIS/TIS-Prac1/s3806589/Main.java",
+		"/Users/anmonteiro/Documents/TUD/TIS/TIS-Prac1/s3806589/NewPopulationTrigger.java",
+		"/Users/anmonteiro/Documents/github/resume/antonio-monteiro-resume.pdf",
+		"/Users/anmonteiro/Documents/github/resume/cv.tex",
+		"/Users/anmonteiro/Documents/github/resume/antonio-monteiro-resume.tex",
+		"/Users/anmonteiro/Documents/github/resume/README.md",
+		"/Users/anmonteiro/Documents/github/books/src/books/controllers/books.clj",
+		"/Users/anmonteiro/Documents/github/books/src/books/models/books.clj",
+		"/Users/anmonteiro/Documents/github/books/src/books/models/core.clj",
+		"/Users/anmonteiro/Documents/github/books/src/books/handler.clj",
+		"/Users/anmonteiro/Documents/github/books/test/books/test/models/books.clj",
+		"/Users/anmonteiro/Documents/github/books/test/books/test/handler.clj",
+		"/Users/anmonteiro/Documents/github/books/project.clj",
+		"/Users/anmonteiro/Documents/github/deathrow-server/src/deathrow_server/handler.clj",
+		"/Users/anmonteiro/Documents/github/books/test/books/test/models/core.clj",
+		"/Users/anmonteiro/Documents/github/books/.gitignore",
+		"/Users/anmonteiro/Documents/github/books/books.sublime-project",
+		"/Users/anmonteiro/Documents/github/books/src/books/routes/books.clj",
+		"/Users/anmonteiro/Documents/github/deathrow/index.html",
+		"/Users/anmonteiro/Documents/github/deathrow/public/js/jquery-1.9.1.js",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/routes.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/models/offenders.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/constants.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/views/offenders/main.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/test/deathrow/test.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/project.clj",
+		"/Users/anmonteiro/Documents/github/deathrow/public/css/deathrow.css",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/core.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/models/core.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/views/main.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/views/offenders/random.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/models/main.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/models/offenders/main.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/models/offenders/random.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/history.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/templates/main.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/templates/offenders/main.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/macros.clj",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/offenders.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/templates/offenders/random.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/views/core.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/templates/offenders.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/views.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/public/js/deathrow.js",
+		"/Users/anmonteiro/Documents/github/deathrow/public/css/spinner.css",
+		"/Users/anmonteiro/Documents/github/deathrow/out/secretary/core.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/out/secretary/core.js",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/util.cljs",
+		"/Users/anmonteiro/Documents/github/mna/index.html",
+		"/Users/anmonteiro/Documents/github/deathrow/src/deathrow/ideas.clj",
+		"/Users/anmonteiro/Documents/github/deathrow/out/goog/history/html5history.js",
+		"/Users/anmonteiro/Documents/github/deathrow/deathrow.js",
+		"/Users/anmonteiro/Documents/github/deathrow/jquery.js",
+		"/Users/anmonteiro/Documents/github/deathrow/public/js/jquery-2.1.1.min.js",
+		"/Users/anmonteiro/Documents/github/deathrow/target/test/deathrow.test.js",
+		"/Users/anmonteiro/Documents/github/deathrow/.gitignore",
+		"/Users/anmonteiro/Documents/github/deathrow/death-row.sublime-project",
+		"/Users/anmonteiro/Documents/github/deathrow/lib/goog-with-third-party-r1376.jar",
+		"/Users/anmonteiro/Documents/github/deathrow/out/pinot/dom.cljs",
+		"/Users/anmonteiro/Documents/github/deathrow/out/pinot/dom.js",
+		"/Users/anmonteiro/Documents/github/deathrow/out/deathrow/core.js.map",
+		"/Users/anmonteiro/Documents/github/deathrow/scrapers/files/offenders.json",
+		"/Users/anmonteiro/Documents/github/deathrow/scrapers/files/offenders-export.json",
+		"/Users/anmonteiro/Documents/github/deathrow/package.json",
+		"/Users/anmonteiro/Documents/github/deathrow/node_modules/request/package.json",
+		"/Users/anmonteiro/Documents/github/deathrow/node_modules/request/request.js",
+		"/Users/anmonteiro/Documents/github/deathrow/node_modules/cheerio/package.json",
+		"/Users/anmonteiro/Documents/github/deathrow/index.js",
+		"/Users/anmonteiro/Documents/github/deathrow/node_modules/mongodb/package.json",
+		"/Users/anmonteiro/Documents/github/deathrow/scraper/utilities.txt",
+		"/Users/anmonteiro/Documents/github/deathrow/scraper/files/offenders.json",
+		"/Users/anmonteiro/Documents/github/deathrow/scraper/offenders.js",
+		"/Users/anmonteiro/Documents/github/deathrow/scraper/lastStatements.js",
+		"/Users/anmonteiro/Documents/github/deathrow/scraper/files/offenders-export.json",
+		"/Users/anmonteiro/Documents/github/deathrow/node_modules/mns/lib/mns.js",
+		"/Users/anmonteiro/Documents/github/deathrow/node_modules/mns/lib/constants.js",
+		"/Users/anmonteiro/Documents/github/deathrow/scraper/test.js",
+		"/Users/anmonteiro/Documents/github/mns/test/mns.test.js",
+		"/Users/anmonteiro/Documents/github/mns/README.md",
+		"/Users/anmonteiro/Documents/github/deathrow/README.md",
+		"/Users/anmonteiro/Documents/github/mns/package.json",
+		"/Users/anmonteiro/Documents/github/deathrow/scraper/offenders.json",
+		"/Users/anmonteiro/Documents/github/projecteuler.clj/test/projecteuler/clj_test_problem5.clj",
+		"/Users/anmonteiro/Documents/github/projecteuler.clj/src/projecteuler/problem5.clj",
+		"/Users/anmonteiro/Documents/github/projecteuler.clj/src/projecteuler/problem2.clj",
+		"/Users/anmonteiro/Documents/github/projecteuler.clj/src/projecteuler/problem4.clj",
+		"/Users/anmonteiro/Documents/github/projecteuler.clj/LICENSE",
+		"/Users/anmonteiro/Documents/github/projecteuler.clj/README.md",
+		"/Users/anmonteiro/Documents/github/projecteuler.clj/test/projecteuler/clj_test_problem4.clj",
+		"/Users/anmonteiro/Documents/github/projecteuler.clj/src/projecteuler/problem3.clj",
+		"/Users/anmonteiro/Documents/github/projecteuler.clj/src/projecteuler/clj.clj",
+		"/Users/anmonteiro/Documents/github/projecteuler.clj/test/projecteuler/clj_test_problem3.clj",
+		"/Users/anmonteiro/Documents/github/projecteuler.clj/src/projecteuler/problem1.clj",
+		"/Users/anmonteiro/Documents/github/projecteuler.clj/test/projecteuler/clj_test_problem1.clj",
+		"/Users/anmonteiro/Documents/github/projecteuler.clj/test/projecteuler/clj_test_problem2.clj",
+		"/Users/anmonteiro/Documents/github/projecteuler.clj/test/projecteuler/clj_test.clj",
+		"/Users/anmonteiro/Documents/github/projecteuler.clj/project.clj",
+		"/Users/anmonteiro/Documents/github/projecteuler.clj/.gitignore",
+		"/Users/anmonteiro/Documents/github/projecteuler.diy/1/test_1.diy",
+		"/Users/anmonteiro/Documents/github/projecteuler.diy/.gitignore",
+		"/Users/anmonteiro/Documents/github/diy-lisp/tests/test_5_adding_functions_to_the_mix.py",
+		"/Users/anmonteiro/Documents/github/diy-lisp/tests/test_6_working_with_lists.py",
+		"/Users/anmonteiro/Documents/github/diy-lisp/diylisp/evaluator.py",
+		"/Users/anmonteiro/Documents/github/diy-lisp/diylisp/repl.py",
+		"/Users/anmonteiro/Documents/github/diy-lisp/diylisp/types.py",
+		"/Users/anmonteiro/Documents/github/diy-lisp/diylisp/parser.py",
+		"/Users/anmonteiro/Documents/github/diy-lisp/diylisp/__init__.py",
+		"/Users/anmonteiro/Documents/github/diy-lisp/tests/test_provided_code.py",
+		"/Users/anmonteiro/Documents/github/diy-lisp/tests/test_1_parsing.py",
+		"/Users/anmonteiro/Documents/github/diy-lisp/example.diy",
+		"/Users/anmonteiro/Documents/github/diy-lisp/tests/test_sanity_checks.py",
+		"/Users/anmonteiro/Documents/github/diy-lisp/diylisp/ast.py",
+		"/Users/anmonteiro/Documents/github/diy-lisp/tests/test_4_working_with_variables_and_environments.py",
+		"/Users/anmonteiro/Documents/github/diy-lisp/stdlib.diy",
+		"/Users/anmonteiro/Documents/github/diy-lisp/diylisp/asserts.py",
+		"/Users/anmonteiro/Documents/github/diy-lisp/diylisp/interpreter.py",
+		"/Users/anmonteiro/Documents/github/diy-lisp/tests/test_3_evaluating_complex_expressions.py",
+		"/Users/anmonteiro/Documents/github/diy-lisp/repl",
+		"/Users/anmonteiro/Documents/github/diy-lisp/tests/test_2_evaluating_simple_expressions.py",
+		"/Users/anmonteiro/Documents/github/diy-lisp/diy.sublime-project",
+		"/Users/anmonteiro/Documents/github/diy-lisp/.gitignore",
+		"/Users/anmonteiro/Documents/github/mna-server/.travis.yml",
+		"/Users/anmonteiro/Documents/github/mna-server/README.md",
+		"/Users/anmonteiro/Documents/github/mna-server/test/app.test.js",
+		"/Users/anmonteiro/Documents/github/mna-server/routes/sites.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rs",
+			"acr",
+			"sbull",
+			"25&	6",
+			"&	",
+			"books-controller/",
+			"books-controller",
+			"books-controller/",
+			"page",
+			"group",
+			"id",
+			"in-quote",
+			"render",
+			"basepath",
+			"events",
+			"c",
+			"jayq",
+			"init-random-btn-event",
+			"        <",
+			"128",
+			"navigate-call",
+			"#",
+			"log",
+			"render-quote-",
+			"render-quote-error",
+			".-",
+			"g",
+			"jqueryobject",
+			"(^\\s+)\"",
+			"\":\"",
+			"nodelist",
+			"$",
+			"console",
+			"tdcjId",
+			"(is (= (problem1 10) (2520)))",
+			"vect",
+			"\\n",
+			"(\\))\\s(\\()",
+			"vc",
+			"(\\))\\s(\\()",
+			"res",
+			"print",
+			"strip",
+			"eof",
+			"parse",
+			"re.",
+			"only",
+			"reddit",
+			"hn",
+			"supert",
+			"json",
+			"converters"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			":",
+			"\\1:",
+			" \"",
+			" ",
+			"\\1\\n\\2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# Object files",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "lajal.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/github/books/books.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
